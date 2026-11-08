@@ -1,0 +1,67 @@
+================================================================================
+
+REKAPITULASI PROMPT AI & LOG INTERAKSI
+
+REPOSITORY: Komputasi-Numerik
+
+================================================================================
+
+
+
+[PROMPT 1 - PERMINTAAN ALGORITMA SPLTV]
+
+--------------------------------------------------------------------------------
+
+User Prompt:
+
+"cara buat Algoritma Penyelesaian Sistem Persamaan Linear 3 variabel dan simpan pada Repository "Komputasi Numerik" di Github"
+
+
+
+Respon AI:
+
+- Memberikan penjelasan algoritma Eliminasi Gauss untuk penyelesaian SPLTV.
+
+- Menyediakan script Python `spltv_gauss.py` berbasis NumPy.
+
+- Memberikan panduan perintah Git (`git init`, `git add`, `git commit`, `git push`) untuk pembuatan repository "Komputasi-Numerik".
+
+--------------------------------------------------------------------------------
+
+
+
+[PROMPT 2 - KONFIRMASI NAMA FILE]
+
+--------------------------------------------------------------------------------
+
+User Prompt:
+
+"nama file"
+
+
+
+Respon AI:
+
+- Memperjelas nama file utama yang digunakan untuk menyimpan program, yaitu `spltv_gauss.py`.
+
+--------------------------------------------------------------------------------
+
+
+
+[PROMPT 3 - PEMBUATAN FILE REKAP PROMPT (.TXT)]
+
+--------------------------------------------------------------------------------
+
+User Prompt:
+
+"Simpan seluruh prompt AI yang Anda gunakan dalam sebuah file .txt dan simpan pada Repository "Komputasi Numerik" di Github"
+
+
+
+Respon AI:
+
+- Membuat file `prompt_komputasi_numerik.txt` yang mencatat seluruh daftar prompt dan konteks interaksi.
+
+- Memberikan petunjuk perintah Git untuk melakukan update pada repository GitHub.
+
+=================================================
